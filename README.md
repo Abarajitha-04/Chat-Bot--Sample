@@ -1,4 +1,4 @@
-# MAVERICKS_TECHATHON_2024
+# ChatBot
 Mental stress relief chatbot
 # Flask Mood Tracker Application
 
@@ -40,10 +40,6 @@ The Flask Mood Tracker is a web application built with Flask that allows users t
     python app.py
   >Access the Application
 
-6.**Drive link**
-  >This video contains the explanation of the entire project
-  >https://drive.google.com/file/d/1ijZI3zydSO7NW6IbWbOcCmTiUM2WRCkY/view?usp=drivesdk
-   
 **Usage**
 >Home Page: Submit your mood to receive tailored suggestions.
 >Register: Create a new user account.
@@ -57,5 +53,5 @@ The Flask Mood Tracker is a web application built with Flask that allows users t
 >login.html: User login form.
 >forgot_password.html: Form for requesting a password reset.
 >reset_password.html: Form for resetting the password.
->profile.html: User profile page (currently not implemented).
+>profile.html: User profile page
 
